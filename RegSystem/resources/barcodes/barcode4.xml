@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<barcodelist>
+	<barcode id="001">
+		<index>004</index>
+		<product>
+			<pid>5532</pid>
+			<type>filter</type>
+			<pname>FILTER D-SUB 9POS SCKT .405" R/A</pname>
+		</product>
+		<company>
+			<cid>515</cid>
+			<cname>3M</cname>
+		</company>
+		<amount>100</amount>
+	</barcode>
+</barcodelist>

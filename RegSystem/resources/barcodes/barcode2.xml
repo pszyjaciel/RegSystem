@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<barcodelist>
+	<barcode id="001">
+		<index>002</index>
+		<product>
+			<pid>5539</pid>
+			<type>filter</type>
+			<pname>FILTER D-SUB 9POS SCKT VERT</pname>
+		</product>
+		<company>
+			<cid>513</cid>
+			<cname>Murata Power Solutions, Inc.</cname>
+		</company>
+		<amount>240</amount>
+	</barcode>
+</barcodelist>

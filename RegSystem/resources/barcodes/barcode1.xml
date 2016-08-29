@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<barcodelist>
+	<barcode id="001">
+		<index>001</index>
+		<product>
+			<pid>5529</pid>
+			<type>connector</type>
+			<pname>CONN D-SUB RCPT 9POS SLD CUP</pname>
+		</product>
+		<company>
+			<cid>512</cid>
+			<cname>National Semiconductor</cname>
+		</company>
+		<amount>120</amount>
+	</barcode>
+</barcodelist>

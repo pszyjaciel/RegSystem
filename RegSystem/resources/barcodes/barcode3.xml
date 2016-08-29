@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<barcodelist>
+	<barcode id="001">
+		<index>003</index>
+		<product>
+			<pid>5530</pid>
+			<type>connector</type>
+			<pname>CONN D-SUB RCPT 15POS R/A GOLD</pname>
+		</product>
+		<company>
+			<cid>514</cid>
+			<cname>Alcoswitch Tyco Electronics</cname>
+		</company>
+		<amount>200</amount>
+	</barcode>
+</barcodelist>
